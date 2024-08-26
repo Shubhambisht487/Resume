@@ -1,0 +1,27 @@
+:root{
+  background-color: aliceblue;
+  font-family: Arial, sans-serif;
+  border: 2px solid skyblue;
+  border-radius: 8px;
+  /* padding: 2px; */
+}
+img {
+    border-radius: 50%;
+    width: 20%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 15px;
+  }
+  .skills{
+    background-color: aqua;
+    padding: 10px;
+  }
